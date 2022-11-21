@@ -1,126 +1,127 @@
 {
      
     "visibility": true,
-    "showBannerAd": false,
-    "showInterstitialAd": false,
-    "showNativeAd": false,
+    "showBannerAd": true,
+    "showInterstitialAd": true,
+    "showNativeAd": true,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Wed Nov 16 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Nov 22 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Nov 16 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 22 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Nov 16 2022", "odds":"Total Standard Tips = 22.45 + Odds", "id":"id_standard_sub","length":10     
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Tue Nov 22 2022", "odds":"Guaranteed Jackpot Bonus Win","id":"id_basic_sub","length":12
+     },
+       {
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Nov 22 2022", "odds":"Total Standard Tips = 22.45 + Odds", "id":"id_standard_sub","length":12     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Nov 16 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":10
-        },
-        {
-            "name": "Jackpot Tips", "amount": "Ksh500" , "accessDays": "Wed Nov 16 2022", "odds":"Guaranteed Jackpot Bonus Win",  "id":"id_jackpot_sub","length":10
-         }
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 22 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
+        }
+    
         
         
       
    ],
    "jackpotPredictions":[
     {
-            "fixture": "HARTLEPOOL VS SOLIHULL MOORS",
-            "prediction": "1/X",
-            "date": "15/11/2022"
+            "fixture": "MEXICO VS POLAND",
+            "prediction": "X",
+            "date": "22/11/2022"
         },
         {
-            "fixture": "BUXTON VS SCARBOROUGH ATHLETIC",
-            "prediction": "1/2",
-            "date": "15/11/2022"
-        },
-        {
-            "fixture": "ATLETICO HUILA VS CHICO",
+            "fixture": "FOREST GREEN VS CHELTENHAM",
             "prediction": "2",
-            "date": "16/11/2022"
+            "date": "22/11/2022"
+        },
+        {
+            "fixture": "GRIMSBY VS ACCRINGTON",
+            "prediction": "2",
+            "date": "22/11/2022"
         },
     
         {
-            "fixture": "RIMINI CALCIO VS VICENZA",
+            "fixture": "SALFORD CITY VS BRADFORD CITY",
             "prediction": "1",
-            "date": "16/11/2022"
+            "date": "22/11/2022"
         },
         {
-            "fixture": "CYPRUS VS BULGARIA",
+            "fixture": "CRAWLEY TOWN VS GILLINGHAM",
             "prediction": "1",
-            "date": "16/11/2022"
+            "date": "22/11/2022"
         },
         {
-            "fixture": "ADO DEN HAAG VS RODA KERKRADE",
-            "prediction": "1 / X",
-            "date": "16/11/2022"
+            "fixture": "LINFIELD BELFAST VS LARNE",
+            "prediction": "X",
+            "date": "22/11/2022"
         },
         {
-            "fixture": "MEXICO VS SWEDEN",
-            "prediction": "1",
-            "date": "16/11/2022"
+            "fixture": "AFC WIMBLEDON VS SUTTON UNITED",
+            "prediction": "X",
+            "date": "22/11/2022"
         },
         {
-            "fixture": "FOGGIA VS CROTONE",
-            "prediction": "1/2",
-            "date": "17/11/2022"
+            "fixture": "DEPORTIVO PASTO VS AMERICA DE CALI",
+            "prediction": "X",
+            "date": "23/11/2022"
         },
         {
-            "fixture": "NICARAGUA VS EL SALVADOR",
-            "prediction": "2X",
-            "date": "17/11/2022"
-        },
-        {
-            "fixture": "TEPLICE VS ZBROJOVKA BRNO",
-            "prediction": "1",
-            "date": "17/11/2022"
-        },
-        {
-            "fixture": "IRELAND VS NORWAY",
-            "prediction": "1",
-            "date": "17/11/2022"
-        },
-        {
-            "fixture": "JONG AZ ALKMAAR VS JONG AJAX",
-            "prediction": "2 / X",
-            "date": "13/11/2022"
-        },
-        {
-            "fixture": "PENAFIEL VS MOREIRENSE",
+            "fixture": "FARCO FC VS ISMAILY SC",
             "prediction": "2",
-            "date": "13/11/2022"
+            "date": "23/11/2022"
+        },
+        {
+            "fixture": "COLCHESTER VS BRISTOL ROVERS",
+            "prediction": "2",
+            "date": "23/11/2022"
+        },
+        {
+            "fixture": "PORT VALE VS BARNSLEY",
+            "prediction": "X",
+            "date": "23/11/2022"
+        },
+        {
+            "fixture": "WALES VS IRAN",
+            "prediction": "2",
+            "date": "25/11/2022"
+        },
+        {
+            "fixture": "QATAR VS SENEGAL",
+            "prediction": "2",
+            "date": "19/11/2022"
         }
     ],
     
     
    "freePredictions":[
     {
-            "fixture": "Saudi Arabia- : -Croatia",
-            "prediction": "1 & Unde 3.5",
-            "date": "16/11/2022"
+            "fixture": "Argentina- : -Saudi Arabia",
+            "prediction": "HT/FT 1/1 ",
+            "date": "22/11/2022"
         },
         {
-            "fixture": "Nepal- : -Pakistan",
-            "prediction": "HT/FT Under 2.5",
-            "date": "16/11/2022"
+            "fixture": "France- : -Australia",
+            "prediction": "Over 2.5",
+            "date": "22/11/2022"
         },
      {
-            "fixture": "Oman- : -Germany",
-            "prediction": "HT-FT 2",
-            "date": "16/11/2022"
+            "fixture": "Burton Albion VS Tranmere Rovers",
+            "prediction": "1",
+            "date": "22/11/2022"
         },
         {
-            "fixture": "Moldova- : -Azerbaijan",
-            "prediction": "Under 2.5",
-            "date": "16/11/2022"
+            "fixture": "Forest Green VS Cheltenham",
+            "prediction": "1",
+            "date": "22/11/2022"
         },
         {
-            "fixture": "Poland- : -Chile",
-            "prediction": "No GG & Under 2.5",
-            "date": "16/11/2022"
+            "fixture": "Salford City VS Bradford City",
+            "prediction": "1X",
+            "date": "22/11/2022"
         }
  ],
  "fixedPredictions":[
@@ -150,67 +151,218 @@
  
  "paidPredictions":[
     {
-        "fixture": "5Woking- : -Oxford United",
-        "prediction": "HT-FT 2",
-        "date": "16/11/2022"
+        "fixture": "Cangzhou- : -Dalian Pro",
+        "prediction": "HT-FT Under 2.5",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Salford City- : -Peterborough United",
-        "prediction": "FT Over 2.5",
-        "date": "16/11/2022"
+        "fixture": "Denmark- : -Tunisia",
+        "prediction": "1",
+        "date": "22/11/2022"
     },
     
     {
-        "fixture": "Dominican Republic- : -Cuba",
-        "prediction": "1/2",
-        "date": "16/11/2022"
+        "fixture": "Lincoln- : -Morecambe",
+        "prediction": "GG & Over 2.5",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Andorra- : -Austria",
-        "prediction": "2 & Over 2.5",
-        "date": "16/11/2022"
+        "fixture": "Stevenage VS Arsenal U23s",
+        "prediction": "GG & Over 2.5",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Turkey- : -Scotland",
-        "prediction": "Both-to-score (NO) & HT-FT 1/1",
-        "date": "16/11/2022"
+        "fixture": "Wolverhampton Wanderers U21- : -Man Utd U21",
+        "prediction": "GG & Over 2.5",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Cyprus- : -Bulgaria",
-        "prediction": "Both-to-score (NO) & HT-FT 2/2",
-        "date": "16/11/2022"
-    },
-    {
-        "fixture": "Mexico- : -Sweden",
-        "prediction": "Both-to-score (YES)",
-        "date": "16/11/2022"
-    },
-    {
-        "fixture": "Fakel- : -Zenit St Petersburg",
+        "fixture": "Peterborough VS Chelsea U23s",
         "prediction": "Over 2.5",
-        "date": "16/11/2022"
+        "date": "22/11/2022"
     },
     {
-        "fixture": "SC Farense- : -Trofense",
-        "prediction": "Home Win",
-        "date": "16/11/2022"
+        "fixture": "Grimsby Town VS Accrington Stanley",
+        "prediction": "Over 2.5 & 1/2",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "ADO Den Haag- : -Roda Kerkrade",
-        "prediction": "Over 2.5",
-        "date": "16/11/2022"
+        "fixture": "Bolton Wanderers VS Barrow AFC",
+        "prediction": "1 & Under 3.5",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "ADO Den Haag- : -Roda Kerkrade",
-        "prediction": "Over 2.5",
-        "date": "16/11/2022"
+        "fixture": "Ipswich Town VS Portsmouth",
+        "prediction": "GG and 1/2",
+        "date": "22/11/2022"
+    },
+    {
+        "fixture": "AFC Wimbledon VS Sutton United",
+        "prediction": "X",
+        "date": "22/11/2022"
+    },
+    {
+        "fixture": "Portugal U21- : -Japan U21",
+        "prediction": "1 & Over 2.5",
+        "date": "22/11/2022"
+    },
+    {
+        "fixture": "Crawley Town VS Gillingham",
+        "prediction": "GG & Over 2.5",
+        "date": "22/11/2022"
+    },
+    {
+        "fixture": "Kryvbas Kryvyi Rih- : -Metalist 1925",
+        "prediction": "1",
+        "date": "19/11/2022"
     }
+    
     
 ],
 
 
 
    "predictionResults":[
+    {
+        "date": "Sunday, 13th November 2022",
+        "gamesList": [
+         {
+             "fixture": "CSD Municipal VS Deportivo Mixco",
+             "prediction": "Under 1.5 Goals",
+             "odds": "4.20",
+             "results": "Odds 4.20 (WIN)"
+         },
+         {
+             "fixture": "Paysandu VS Sao Raimundo/AM",
+             "prediction": "HT/FT 1/1",
+             "odds": "5.29",
+             "results": "5.26 (WIN)"
+         },
+         {
+             "fixture": "Britannia VS Santa Fe",
+             "prediction": "GG & Over 5.5",
+             "odds": "6.05",
+             "results": "Odds 6.05 (WIN)"
+         },
+             {
+             "fixture": "Ethiopian Medhin VS Mebrat Hayl",
+             "prediction": "Fixed Over 6.5 Goals",
+             "odds": "3.86",
+             "results": "Odds 3.86 (WIN)"
+         },
+             {
+             "fixture": "River Plate VS Nacional",
+             "prediction": "HT/FT X/1",
+             "odds": "4.54",
+             "results": "Odds 4.54 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Saturday, 12th November 2022",
+        "gamesList": [
+         {
+             "fixture": "Radcliffe Borough VS Guiseley AFC",
+             "prediction": "Over 5.5 & GG",
+             "odds": "6.04",
+             "results": "Odds 6.04 (WIN)"
+         },
+         {
+             "fixture": "S達o Jo達o de Ver VS CF Canelas 2010",
+             "prediction": "HT/FT 2/X",
+             "odds": "5.33",
+             "results": "5.33 (WIN)"
+         },
+         {
+             "fixture": "TuSpo Surheide VS Union Bremen",
+             "prediction": "HT/FT 1/2",
+             "odds": "5.53",
+             "results": "Odds 5.53 (WIN)"
+         },
+             {
+             "fixture": "Ethiopian Medhin VS Mebrat Hayl",
+             "prediction": "Fixed Draw",
+             "odds": "3.28",
+             "results": "Odds 3.28 (WIN)"
+         },
+             {
+             "fixture": "ASEC Koudougou VS Douanes",
+             "prediction": "Under 0.5 Goals",
+             "odds": "6.81",
+             "results": "Odds 6.81 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Friday, 11th November 2022",
+        "gamesList": [
+         {
+             "fixture": "Khor Fakkan Club VS Al Dhafra",
+             "prediction": "Over 5.5 & GG",
+             "odds": "6.46",
+             "results": "Odds 6.46 (WIN)"
+         },
+         {
+             "fixture": "Niki Volos VS Veria FC",
+             "prediction": "Fixed Draw",
+             "odds": "3.28",
+             "results": "3.28 (WIN)"
+         },
+         {
+             "fixture": "Shabab Alsamu VS Shabab Al Am'ari",
+             "prediction": "HT/FT X/1",
+             "odds": "5.33",
+             "results": "Odds 5.33 (WIN)"
+         },
+             {
+             "fixture": "Ethiopian Medhin VS Mebrat Hayl",
+             "prediction": "Correct Score 2-0",
+             "odds": "7.05",
+             "results": "Odds 7.05 (WIN)"
+         },
+             {
+             "fixture": "Wolves U23s VS Reading U23s",
+             "prediction": "HT/FT 1/1",
+             "odds": "4.97",
+             "results": "Odds 4.97 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Thursday, 10th November 2022",
+        "gamesList": [
+         {
+             "fixture": "Juventude VS Flamengo RJ",
+             "prediction": "HT/FT 1/X",
+             "odds": "5.11",
+             "results": "Odds 5.11 (WIN)"
+         },
+         {
+             "fixture": "Alashkert VS FC Urartu",
+             "prediction": "Under 0.5 Goals",
+             "odds": "5.09",
+             "results": "5.09 (WIN)"
+         },
+         {
+             "fixture": "Avtomobilist Noginsk VS Dinamo Vladivostok",
+             "prediction": "Fixed Draw",
+             "odds": "3.24",
+             "results": "Odds 3.24 (WIN)"
+         },
+             {
+             "fixture": "Tavagnacco W VS Pomigliano W",
+             "prediction": "Over 4.5 & GG",
+             "odds": "6.19",
+             "results": "Odds 6.19 (WIN)"
+         },
+             {
+             "fixture": "KF Ballkani VS KF Llapi",
+             "prediction": "Over 4.5 Goals",
+             "odds": "4.06",
+             "results": "Odds 4.06 (WIN)"
+         }
+        ]
+     },
     {
         "date": "Wednesday, 9th November 2022",
         "gamesList": [
