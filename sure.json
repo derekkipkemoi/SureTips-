@@ -1,9 +1,9 @@
 {
      
     "visibility": true,
-    "showBannerAd": false,
-    "showInterstitialAd": false,
-    "showNativeAd": false,
+    "showBannerAd": true,
+    "showInterstitialAd": true,
+    "showNativeAd": true,
        
        "plans":[
        {
