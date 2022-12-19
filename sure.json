@@ -1,6 +1,6 @@
 {
      
-    "visibility": true,
+    "visibility": false,
     "showBannerAd": true,
     "showInterstitialAd": true,
     "showNativeAd": true,
